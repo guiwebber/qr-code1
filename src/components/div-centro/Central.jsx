@@ -1,10 +1,11 @@
 import React from "react";
+import code from '../../images/image-qr-code.png'
 import "./Central.css";
 function Central() {
   return (
     <div className="container">
       <div className="div-centro">
-        <img src="../../src/images/favicon-32x32.png" alt="" />
+        <img src={code} alt="" />
         <div className="text">
           <h2>Improve your front-end skills by building projects</h2>
           <p>
