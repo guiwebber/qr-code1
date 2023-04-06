@@ -4,7 +4,7 @@ function Central() {
   return (
     <div className="container">
       <div className="div-centro">
-        <img src="../../src/images/image-qr-code.png" alt="" />
+        <img src="../../src/images/favicon-32x32.png" alt="" />
         <div className="text">
           <h2>Improve your front-end skills by building projects</h2>
           <p>
